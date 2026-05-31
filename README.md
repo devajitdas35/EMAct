@@ -1,6 +1,6 @@
-# EM-EdgeTrans: Electromagnetic Side-Channel Dataset for Smart Transportation
+# EMAct: Electromagnetic Dataset for IoT Device Activity Profiling
 
-EM-EdgeTrans is a labeled EM side-channel dataset captured from a Raspberry Pi 4B executing typical edge computing tasks in smart transportation settings. This dataset supports research in side-channel analysis, behavioral profiling, and lightweight intrusion detection.
+EMAct is a labeled electromagnetic (EM) dataset captured from a Raspberry Pi 4B under four predefined device activity classes. The dataset is intended to support research in low-cost EM data acquisition, IoT device activity profiling, and reproducible experimentation using off-the-shelf hardware and open-source tools.
 
 ## 📁 Dataset Structure
 
@@ -68,10 +68,10 @@ Each `.cfile` trace can be processed using Welch’s method for PSD, amplitude s
 
 ## 🔬 Applications
 
-- Side-channel leakage characterization
-- Device behavior classification
-- Lightweight intrusion detection
-- Edge-based security monitoring
+- Low-cost EM data acquisition research
+- IoT device activity profiling
+- Feature extraction from EM traces
+- Reproducible EM-based experimentation
 
 ---
 ## 🔗 Citation
