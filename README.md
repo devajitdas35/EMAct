@@ -23,7 +23,7 @@ EMAct/
 │   ├── malicious/                     # 100 EM traces (MQTT flood)
 │   ├── malicious_cpu/                 # 100 EM traces (CPU stress)
 │   ├── trace_index.csv                # Metadata for all traces
-│   └── 
+│  
 │
 ├── README.md                          # Project overview and usage
 └── capture_config.yaml            # SDR and capture configuration
