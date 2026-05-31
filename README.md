@@ -5,7 +5,7 @@ EMAct is a labeled electromagnetic (EM) dataset captured from a Raspberry Pi 4B 
 ## 📁 Dataset Structure
 
 ```plaintext
-EM-EdgeTrans/
+EMAct/
 ├── Code/                              # Scripts for EM trace capture and analysis
 │   ├── cpu_stress.py                  # Script to stress CPU for DoS simulation
 │   ├── data_analysis.py               # PSD computation, visualization
@@ -48,8 +48,8 @@ EM-EdgeTrans/
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/devajitdas35/EM-EdgeTrans.git
-   cd EM-EdgeTrans
+   git clone https://github.com/devajitdas35/EMAct.git
+   cd EMAct
    ```
 
 2. Install dependencies:
