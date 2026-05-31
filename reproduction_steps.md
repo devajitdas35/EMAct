@@ -14,7 +14,7 @@
 1. Run `idle_capture_loop.py` to collect idle traces.  
 2. Run `em_capture_trigger.py` to capture traces during MQTT-based sensor transmission.  
 3. Run `malicious_capture_loop.py` while executing MQTT flooding on the Pi to capture malicious traces.  
-4. Run `malicious_cpu_capture_loop.py` while executing a CPU stress script (DoS-like activity) on the Pi to capture malicious CPU traces.  
+4. Run `malicious_cpu_capture_loop.py` while executing a CPU stress script on the Pi to capture malicious CPU traces.  
 5. Each trace will be stored in `.cfile` format under its respective class folder (`idle`, `operational`, `malicious`, `malicious_cpu`).  
 6. Traces are automatically indexed in `trace_index.csv`.
 ## Data Analysis
