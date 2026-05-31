@@ -1,4 +1,4 @@
-dataset_name: EM-EdgeTrans
+dataset_name: EMAct
 version: 1.0
 capture_date: 2025-05-17
 location: Lab Environment
