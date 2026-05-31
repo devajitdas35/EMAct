@@ -1,4 +1,4 @@
-# Reproduction Steps for EM-EdgeTrans Dataset
+# Reproduction Steps for EMAct Dataset
 
 ## Hardware Setup
 1. Place a near-field H-probe near the Raspberry Pi 4B's CPU.
